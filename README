@@ -1,0 +1,40 @@
+=================================================
+===================READ ME=======================
+=================================================
+*************************************************
+Contents:
+-------------------------------------------------
+1. How to build
+2. How to use
+3. How to remove
+4. Credit
+*************************************************
+How To Build
+-------------------------------------------------
+Open up terminal and change directory to the location
+of 'dictionary.cpp' (make sure all included files
+are also located there). Enter the command 'make main' to
+compile and build the executable. Proceed to run
+the executable, or type './main < file.dat' in
+terminal, where 'file.dat' is the file you wish to
+read.
+*************************************************
+How to use
+-------------------------------------------------
+
+As it stands now, there are too many pointer errors
+for the program to work and I ran out of time and
+patience to finish fixing them. I do apologize for
+not completing the program.
+
+**************************************************
+How to remove
+--------------------------------------------------
+In terminal go to the directory that 'main'
+is located. Type 'make clean' to remove all but
+source files.
+**************************************************
+Credits
+--------------------------------------------------
+Programmed by Andrew Hingst (5043535).
+**************************************************
